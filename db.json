@@ -4,28 +4,28 @@
       "id": 1,
       "name": "Musculation",
       "description": "Programme de prise de masse et renforcement musculaire.",
-      "image": "https://picsum.photos/400/300?random=1",
+      "image": "https://images.unsplash.com/photo-1558611848-73f7eb4001a1?auto=format&fit=crop&w=800&q=80",
       "type": "Renforcement"
     },
     {
       "id": 2,
       "name": "Fitness",
       "description": "Perte de poids, cardio, HIIT et endurance.",
-      "image": "https://picsum.photos/400/300?random=2",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=800&q=80",
       "type": "Cardio"
     },
     {
       "id": 3,
       "name": "Yoga",
       "description": "Souplesse, respiration, sérénité et équilibre.",
-      "image": "https://picsum.photos/400/300?random=3",
+      "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=800&q=80",
       "type": "Bien-être"
     },
     {
       "id": 4,
       "name": "Boxe",
       "description": "Techniques de combat, cardio intensif, explosivité.",
-      "image": "https://picsum.photos/400/300?random=4",
+      "image": "https://images.unsplash.com/photo-1606902965551-dce093cda6e7?auto=format&fit=crop&w=800&q=80",
       "type": "Combat"
     }
   ]
